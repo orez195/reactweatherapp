@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-weight: 100;
+  background: url("backgroundpic.jpeg") no-repeat;
+}
+
+#root > div{
+  text-align: center;
+}
